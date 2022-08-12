@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Leonardo Nogueira 👋
 
-- 🔭 Sou Engenheiro de Produção, estou em transição para carreira Dev
-- 🌱 Estudando para ser um dev front-end
+- 🔭 Engenheiro de Produção, estou em transição para carreira Dev
+- 🌱 Estudando para me aperfeiçoar a cada dia
 
 <div align="center">
   <a href="https://github.com/Leo-ngra">
@@ -9,7 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-ngra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+### Tecnologias que utilizo no meu dia
 <div style="display: inline_block"><br>
+
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,9 +21,10 @@
  
 </div>
 
-##
+### Contato
 
 <div>
 <a href = "mailto:leonardo.ngra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 <a href="https://www.linkedin.com/in/leonardo-nogueira-721248119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href = 'https://api.whatsapp.com/send?phone=5513996185942'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 </div>
