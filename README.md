@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Leonardo Nogueira 👋
 
 - 🔭 Engenheiro de Produção
--   estou em transição para carreira Dev
+-     estou em transição para carreira Dev
 - 🌱 Estudando para me aperfeiçoar a cada dia
 
 <div align="center">
