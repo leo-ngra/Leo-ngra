@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Leonardo Nogueira 👋
 
-- 🔭 Engenheiro de Produção
-- ⚛️ JavaScript | ReactJS | Typescript
-- 🌱 Estudando para me aperfeiçoar a cada dia
+- 🔭 I'm a production engineer
+- 🚀 Skills: HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | NPM / Yarn | Typescript
+- 💼 I'm currently looking for a job as Frontend Developer.
 
 <div align="center">
   <a href="https://github.com/Leo-ngra">
